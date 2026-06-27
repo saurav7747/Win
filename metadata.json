@@ -1,0 +1,6 @@
+{
+  "name": "Win or Learn",
+  "description": "Esports tournament platform for Free Fire, BGMI, COD Mobile, Valorant, and more. Register, join matches, view Room details, compete, track leaderboards, earn rewards, and level up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
